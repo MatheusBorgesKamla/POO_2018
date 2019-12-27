@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MundoYoshi()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MundoYoshi\r\n
+comment1.params=
+comment1.target=void\ cenario()
+comment1.text=\r\n\ Draw\ this\ MundoYoshi.\r\n
+numComments=2

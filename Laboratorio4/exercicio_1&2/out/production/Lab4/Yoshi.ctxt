@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Yoshi()
+comment0.text=\r\n\ Cria\ um\ objeto\ com\ posicao,\ color\ e\ direcao\ por\ default\r\n
+comment1.params=isShowed
+comment1.target=void\ setIsShowed(java.lang.Boolean)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\r\n\ Captura\ o\ color\r\n
+comment3.params=color
+comment3.target=void\ setColor(java.lang.String)
+comment3.text=\r\n\ Modifica\ o\ color\r\n
+comment4.params=
+comment4.target=int\ getPosicaoX()
+comment4.text=\r\n\ Retorna\ posicao\ no\ eixo\ X\r\n
+comment5.params=
+comment5.target=int\ getPosicaoY()
+comment5.text=\r\n\ Retorna\ posicao\ no\ eixo\ Y\r\n
+comment6.params=distancia
+comment6.target=void\ irParaAbaixo(int)
+comment6.text=\r\n\ Mover\ para\ abaixo\r\n
+comment7.params=
+comment7.target=void\ visualizar()
+comment7.text=\r\n\ Visualiza\ objeto\ no\ Canvas\r\n
+numComments=8
